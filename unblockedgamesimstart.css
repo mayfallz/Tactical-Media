@@ -1,0 +1,96 @@
+body{
+	background-color: darkviolet;
+}
+
+.navbar{
+background-color: black;
+color: white;
+overflow: hidden;
+}
+
+.navigate{
+list-style-type: none;
+margin: 0;
+padding: 15px;
+text-align: right;
+}
+
+li{
+	display: inline;
+	padding: 5px;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+a{
+	color: white;
+}
+
+.allow{
+	color: white;
+}
+
+.gamesim{
+background-color: black;
+width: 100%;
+}
+
+h1{
+font-size: 75px;
+}
+
+
+h2{
+	font-size: 40px;
+	font-family: sans-serif;
+	margin-left: 50px;
+}
+
+.query{
+	padding: 100px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background-color: black;
+	color: white;
+	float: left;
+	font-size: 25px;
+	width: 50%;
+	margin: 10px;
+	margin-left: 50PX;
+	display: inline;
+}
+
+.lilgame{
+	display: inline-block;
+	width: 30%;
+	background-color: black;
+	color: white;
+	float: right;
+	padding-top: 80px;
+	padding-bottom: 50px;
+	padding-left: 10 px;
+	margin: 10px;
+	margin-right: 50px;
+	font-size: 25px;
+
+}
+
+
+span{
+	background-color: darkviolet;
+}
+
+img{
+	width: 750px;
+	height: 375px;
+}
+
+.home{
+	width: 25px;
+	height: 25px;
+	float: left;
+}
+
+.decide{
+display: inline;
+}
